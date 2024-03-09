@@ -1,9 +1,4 @@
 import './App.css';
-import User from './pages/user/User';
-import Input from './pages/Input/Input';
-import Button from './components/button/Button';
-import Example from './components/example/Example';
-import Buttons from './components/buttons/Buttons';
 import MainPage from './pages/mainPage/MainPage';
 
 
