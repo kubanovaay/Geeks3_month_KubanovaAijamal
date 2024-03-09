@@ -5,7 +5,6 @@ import Example from '../../components/example/Example';
 import Header from '../../components/header/Header';
 import Modal from '../../components/modal/Modal';
 import Input from '../../components/input/Input';
-import { logDOM } from '@testing-library/react';
 
 
 const MainPage = () => {
